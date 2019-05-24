@@ -35,5 +35,5 @@ If you are a beginner or intermediate architect, developer, or database administ
 
 ## Related Products
 * [Cassandra 3x High Availability Second Edition [Book] ](https://www.packtpub.com/big-data-and-business-intelligence/cassandra-3x-high-availability-second-edition )
-* [Apache Cassandra Essentials [Book]] (https://www.packtpub.com/big-data-and-business-intelligence/apache-cassandra-essentials)
+* [Apache Cassandra Essentials [Book]](https://www.packtpub.com/big-data-and-business-intelligence/apache-cassandra-essentials)
 
