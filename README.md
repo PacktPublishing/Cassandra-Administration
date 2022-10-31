@@ -37,7 +37,3 @@ If you are a beginner or intermediate architect, developer, or database administ
 * [Cassandra 3x High Availability Second Edition [Book] ](https://www.packtpub.com/big-data-and-business-intelligence/cassandra-3x-high-availability-second-edition )
 * [Apache Cassandra Essentials [Book]](https://www.packtpub.com/big-data-and-business-intelligence/apache-cassandra-essentials)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781782164203">https://packt.link/free-ebook/9781782164203 </a> </p>
